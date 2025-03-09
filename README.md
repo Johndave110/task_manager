@@ -11,16 +11,16 @@ Clone the Repository
 git clone <repository_url>
 cd task_manager
 
-install this using vscode terminal
-pip install pipenv
-pipenv install Django
-pipenv shell
-django-admin startproject [name nang folder]
-cd task_manager
-python manage.py startapp tasks
-pip install mysqlclient
-pip install pymysql
-python manage.py migrate
+install this using vscode terminal, 
+pip install pipenv, 
+pipenv install Django, 
+pipenv shell, 
+django-admin startproject task_manager, 
+cd task_manager, 
+python manage.py startapp tasks, 
+pip install mysqlclient, 
+pip install pymysql, 
+python manage.py migrate,
 
 Usage
 
