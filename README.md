@@ -11,7 +11,8 @@ Clone the Repository
 git clone <repository_url>
 cd task_manager
 
-install this using vscode terminal, 
+install this using vscode terminal
+
 pip install pipenv, 
 pipenv install Django, 
 pipenv shell, 
