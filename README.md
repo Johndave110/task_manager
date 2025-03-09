@@ -10,7 +10,9 @@ Django Task Manager is a simple CRUD (Create, Read, Update, Delete) application 
 -Maria DB Should be 10.5 above if not upgrade yours search on youtube
 
 
-2. Clone the Repository
+2. Clone the Repository or download
+
+download the file
 
 git clone <repository_url>
 
