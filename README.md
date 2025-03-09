@@ -2,14 +2,18 @@
 Django Task Manager - Setup Instructions
 
 Project Overview
+
 Django Task Manager is a simple CRUD (Create, Read, Update, Delete) application for managing tasks. It allows users to create, update, and delete tasks with a due date and status automatically determined based on the due date.
 
 1. Installation and Setup
--Maria DB Should be 10.5 aboove
+
+-Maria DB Should be 10.5 above if not upgrade yours search on youtube
 
 
 2. Clone the Repository
+
 git clone <repository_url>
+
 cd task_manager
 
 
