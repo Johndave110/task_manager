@@ -7,21 +7,37 @@ Django Task Manager is a simple CRUD (Create, Read, Update, Delete) application 
 Installation and Setup
 -Maria DB Should be 10.5 aboove
 
+
 Clone the Repository
 git clone <repository_url>
 cd task_manager
 
-install this using vscode terminal
 
-pip install pipenv, 
-pipenv install Django, 
-pipenv shell, 
-django-admin startproject task_manager, 
-cd task_manager, 
-python manage.py startapp tasks, 
-pip install mysqlclient, 
-pip install pymysql, 
-python manage.py migrate,
+Install this using vscode terminal
+
+pip install pipenv
+
+pipenv install Django
+
+pipenv shell
+
+django-admin startproject task_manager
+
+cd task_manager
+
+python manage.py startapp tasks
+
+pip install mysqlclient
+
+pip install pymysql
+
+
+Apply Migrations
+
+python manage.py makemigrations
+
+python manage.py migrate
+
 
 Usage
 
